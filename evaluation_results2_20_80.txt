@@ -1,0 +1,5 @@
+--- Model Evaluation Results (20% Train / 80% Test) ---
+Mean absolute error: 0.04
+Mean squared error: 0.00
+Root mean squared error: 0.05
+R2-score: 0.05
