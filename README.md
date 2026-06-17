@@ -68,7 +68,7 @@ Key Takeaways
     The outcome of this prediction also proves that a "Simple" Linear Regression (using only one clue) is too simple for a complex real-world     problem like flooding.
 
 
-Clear Interpretation of Your Results
+Clear Interpretation of Results
 
 1. The Mathematical Equation
 From your 80% Train / 20% Test model, the algorithm found this line of best fit:
