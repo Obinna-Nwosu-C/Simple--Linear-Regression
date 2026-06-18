@@ -94,4 +94,7 @@ Multiple Linear Regression: Incorporating all 21 environmental features to see h
 Feature Selection: Using correlation matrices to identify and drop multicollinear features.
 Advanced Algorithms: Testing non-linear models like Random Forests or XGBoost to capture complex, non-linear interactions between climate and infrastructure variables.
 
+Acknowledgments
+Dataset source: Kaggle Flood Prediction Dataset, Scikit-learn documentation and community, Python data science community.
+
 Created by Obinna Nwosu C.
